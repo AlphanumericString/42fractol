@@ -1,0 +1,17 @@
+# Build output
+build/
+compilation.log
+fractol
+
+# Libraries and objects
+*.o
+*.d
+*.a
+*.so
+*.so.*
+
+# MiniLibX generated files
+libs/mlx/Makefile.gen
+libs/mlx/obj/
+libs/mlx/test/Makefile.gen
+libs/mlx/test/mlx-test
